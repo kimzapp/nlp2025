@@ -7,11 +7,11 @@ numpy
 gensim
 transformers
 tokenizers
-pyspark
+# pyspark
 matplotlib
 seaborn
-keras
-tensorflow
+# keras
+# tensorflow
 datasets
 evaluate
 conllu
