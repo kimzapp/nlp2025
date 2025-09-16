@@ -3,7 +3,6 @@ from core.interfaces import BaseVectorizer, BaseTokenizer
 class CountVectorizer(BaseVectorizer):
     def __init__(self, tokenizer: BaseTokenizer):
         super().__init__(tokenizer=tokenizer)
-        self.vocab = None
         
     def fit(self, corpus: list[str]):
         vocabulary = set()

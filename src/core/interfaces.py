@@ -11,6 +11,7 @@ class BaseTokenizer(ABC):
 class BaseVectorizer(ABC):
     def __init__(self, tokenizer: BaseTokenizer):
         self.tokenizer = tokenizer
+        self.vocab = None
 
     @abstractmethod
     def fit(self, corpus: list[str]):
