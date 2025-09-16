@@ -2,7 +2,6 @@ from preprocessing.simple_tokenizer import SimpleTokenizer
 from preprocessing.regex_tokenizer import RegexTokenizer
 from core.dataset_loaders import load_raw_text_data
 
-
 if __name__ == "__main__":
     text1 = "Hello, world! This is a test."
     text2 = "NLP is fascinating... isn't it?"

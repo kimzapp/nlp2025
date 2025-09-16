@@ -3,3 +3,4 @@ src/preprocessing/__pycache__/*
 .vscode/*
 UD_English-EWT/*
 UD_English-EWT.tar.gz
+src/representations/__pycache__/*
