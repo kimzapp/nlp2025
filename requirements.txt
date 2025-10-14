@@ -5,13 +5,13 @@ scikit-learn
 pandas
 numpy
 gensim
-transformers
+# transformers
 tokenizers
 # pyspark
 matplotlib
 seaborn
 # keras
 # tensorflow
-datasets
-evaluate
+# datasets
+# evaluate
 conllu
