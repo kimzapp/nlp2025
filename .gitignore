@@ -4,3 +4,4 @@ src/preprocessing/__pycache__/*
 UD_English-EWT/*
 UD_English-EWT.tar.gz
 src/representations/__pycache__/*
+data
