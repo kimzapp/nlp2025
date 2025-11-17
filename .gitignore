@@ -5,3 +5,5 @@ UD_English-EWT/*
 UD_English-EWT.tar.gz
 src/representations/__pycache__/*
 data
+__pycache__
+wiki_giga_2024_100.txt
